@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{70C548D6-B797-441A-98E7-B06649E28B84}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Nhom01_FinalProject</RootNamespace>
+    <AssemblyName>Nhom01_FinalProject</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.19.9.0\lib\net40\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\DancuDAO.cs" />
+    <Compile Include="DAO\DynamicConnect.cs" />
+    <Compile Include="DAO\GiamsatDAO.cs" />
+    <Compile Include="DAO\HochieuDAO.cs" />
+    <Compile Include="DAO\PhieugiahanDAO.cs" />
+    <Compile Include="DAO\StaticConnect.cs" />
+    <Compile Include="DAO\UserLoginDAO.cs" />
+    <Compile Include="DTO\UserLogin.cs" />
+    <Compile Include="DTO\Phieugiahan.cs" />
+    <Compile Include="DTO\Dancu.cs" />
+    <Compile Include="DTO\Hochieu.cs" />
+    <Compile Include="GUI\GUI_GIAMSAT\fAdmings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_GIAMSAT\fAdmings.Designer.cs">
+      <DependentUpon>fAdmings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_GIAMSAT\fHsGiamSat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_GIAMSAT\fHsGiamSat.Designer.cs">
+      <DependentUpon>fHsGiamSat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_LUUTRU\fAdminlt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_LUUTRU\fAdminlt.Designer.cs">
+      <DependentUpon>fAdminlt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_LUUTRU\fHsDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_LUUTRU\fHsDangKy.Designer.cs">
+      <DependentUpon>fHsDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_LUUTRU\fHsHoChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_LUUTRU\fHsHoChieu.Designer.cs">
+      <DependentUpon>fHsHoChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_LUUTRU\fUpdateTimeHoChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_LUUTRU\fUpdateTimeHoChieu.Designer.cs">
+      <DependentUpon>fUpdateTimeHoChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XETDUYET\fAdminxd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XETDUYET\fAdminxd.Designer.cs">
+      <DependentUpon>fAdminxd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fDangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fDangnhap.Designer.cs">
+      <DependentUpon>fDangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fHsCongDan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fHsCongDan.Designer.cs">
+      <DependentUpon>fHsCongDan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fHsDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fHsDangKy.Designer.cs">
+      <DependentUpon>fHsDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fHsHoChieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fHsHoChieu.Designer.cs">
+      <DependentUpon>fHsHoChieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fHuongdan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fHuongdan.Designer.cs">
+      <DependentUpon>fHuongdan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fIndex.Designer.cs">
+      <DependentUpon>fIndex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fLienhe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fLienhe.Designer.cs">
+      <DependentUpon>fLienhe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fTokhai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fTokhai.Designer.cs">
+      <DependentUpon>fTokhai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fTracuu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_CLIENT\fTracuu.Designer.cs">
+      <DependentUpon>fTracuu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fTTHoChieuTheoMa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fTTHoChieuTheoMa.Designer.cs">
+      <DependentUpon>fTTHoChieuTheoMa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fUpdateXacThuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fUpdateXacThuc.Designer.cs">
+      <DependentUpon>fUpdateXacThuc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fAdminxt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XACTHUC\fAdminxt.Designer.cs">
+      <DependentUpon>fAdminxt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XETDUYET\fHsDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XETDUYET\fHsDangKy.Designer.cs">
+      <DependentUpon>fHsDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI_XETDUYET\fUpdateXetDuyet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI_XETDUYET\fUpdateXetDuyet.Designer.cs">
+      <DependentUpon>fUpdateXetDuyet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\GUI_GIAMSAT\fAdmings.resx">
+      <DependentUpon>fAdmings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_GIAMSAT\fHsGiamSat.resx">
+      <DependentUpon>fHsGiamSat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_LUUTRU\fAdminlt.resx">
+      <DependentUpon>fAdminlt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_LUUTRU\fHsDangKy.resx">
+      <DependentUpon>fHsDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_LUUTRU\fHsHoChieu.resx">
+      <DependentUpon>fHsHoChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_LUUTRU\fUpdateTimeHoChieu.resx">
+      <DependentUpon>fUpdateTimeHoChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XETDUYET\fAdminxd.resx">
+      <DependentUpon>fAdminxd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_CLIENT\fDangnhap.resx">
+      <DependentUpon>fDangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XACTHUC\fHsCongDan.resx">
+      <DependentUpon>fHsCongDan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XACTHUC\fHsDangKy.resx">
+      <DependentUpon>fHsDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XACTHUC\fHsHoChieu.resx">
+      <DependentUpon>fHsHoChieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_CLIENT\fHuongdan.resx">
+      <DependentUpon>fHuongdan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_CLIENT\fIndex.resx">
+      <DependentUpon>fIndex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_CLIENT\fLienhe.resx">
+      <DependentUpon>fLienhe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_CLIENT\fTokhai.resx">
+      <DependentUpon>fTokhai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_CLIENT\fTracuu.resx">
+      <DependentUpon>fTracuu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XACTHUC\fTTHoChieuTheoMa.resx">
+      <DependentUpon>fTTHoChieuTheoMa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XACTHUC\fUpdateXacThuc.resx">
+      <DependentUpon>fUpdateXacThuc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XACTHUC\fAdminxt.resx">
+      <DependentUpon>fAdminxt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XETDUYET\fHsDangKy.resx">
+      <DependentUpon>fHsDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI_XETDUYET\fUpdateXetDuyet.resx">
+      <DependentUpon>fUpdateXetDuyet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-eye-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-hide-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-name-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-username-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-username-501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sign-in-form-password-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-password-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-man-60.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

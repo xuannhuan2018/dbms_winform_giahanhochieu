@@ -1,0 +1,159 @@
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.Properties.Resources.resources
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.exe
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fDangnhap.resources
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.fTrangchu.resources
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe.config
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fXacthuc.resources
+C:\Users\Admin\source\repos\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhai.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe.config
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.pdb
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csprojAssemblyReference.cache
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fDangnhap.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHuongdan.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.fTrangchu.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhai.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhaimau.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTracuu.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fXacthuc.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.Properties.Resources.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.GenerateResource.cache
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CopyComplete
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.exe
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe.config
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fDangnhap.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHuongdan.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.fTrangchu.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhai.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhaimau.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTracuu.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.Properties.Resources.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.GenerateResource.cache
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CopyComplete
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.exe
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fLienhe.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsCongDan.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsHoChieu.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fUpdateXacThuc.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminxt.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsDangKy.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTTHoChieuTheoMa.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdmings.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminlt.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminxd.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_XETDUYET.fHsDangKy.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_XETDUYET.fUpdateXetDuyet.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fHsDangKy.resources
+C:\Users\Admin\Videos\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fUpdateTimeHoChieu.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe.config
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.pdb
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csprojAssemblyReference.cache
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdmings.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminlt.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fHsDangKy.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fUpdateTimeHoChieu.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminxd.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fDangnhap.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsCongDan.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsDangKy.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsHoChieu.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHuongdan.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.fTrangchu.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fLienhe.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhai.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhaimau.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTracuu.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTTHoChieuTheoMa.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fUpdateXacThuc.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminxt.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_XETDUYET.fHsDangKy.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_XETDUYET.fUpdateXetDuyet.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.Properties.Resources.resources
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.GenerateResource.cache
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CopyComplete
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.exe
+C:\Users\HIEU\OneDrive\Desktop\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\BMCSDL_FinalProject-main\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdmings.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminlt.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fHsDangKy.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fUpdateTimeHoChieu.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminxd.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fDangnhap.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsCongDan.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsDangKy.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsHoChieu.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHuongdan.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.fTrangchu.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fLienhe.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhai.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhaimau.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTracuu.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTTHoChieuTheoMa.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fUpdateXacThuc.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminxt.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_XETDUYET.fHsDangKy.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_XETDUYET.fUpdateXetDuyet.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CopyComplete
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.exe
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_GIAMSAT.fHsGiamSat.resources
+C:\Users\Admin\Documents\Zalo Received Files\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fHsHoChieu.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdmings.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_GIAMSAT.fHsGiamSat.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminlt.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fHsDangKy.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fHsHoChieu.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_LUUTRU.fUpdateTimeHoChieu.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminxd.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fDangnhap.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsCongDan.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsDangKy.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHsHoChieu.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fHuongdan.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.fTrangchu.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fLienhe.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTokhai.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTracuu.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fTTHoChieuTheoMa.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fUpdateXacThuc.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.fAdminxt.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_XETDUYET.fHsDangKy.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.GUI.GUI_XETDUYET.fUpdateXetDuyet.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.exe
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe.config
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.exe
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Nhom01_FinalProject.pdb
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Admin\Desktop\Nhom01_BMCSDL_CuoiKy\Source Code\Nhom01_FinalProject\Nhom01_FinalProject\obj\Debug\Nhom01_FinalProject.csproj.CopyComplete
